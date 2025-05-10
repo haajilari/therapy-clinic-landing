@@ -12,15 +12,16 @@ A responsive, accessible, and beautifully designed landing page for a therapy/ps
 - **Lucide React** (Icon pack)
 - **React Hook Form + Zod** (Forms and validation)
 - **ESLint** (Static code analysis)
-- **Tailwind CSS** + **tailwind-merge**, **clsx**, **postcss**
+- **Tailwind CSS** + `tailwind-merge`, `clsx`, `postcss`
 - **Embla Carousel**, **Recharts**, **Date-fns**, **React Day Picker**
 
 ---
 
 ## 📦 Installation
 
-1. **Clone the repo:**
+Install dependencies using your preferred package manager:
 
-   ```bash
-   git clone https://github.com/your-username/psychology-clinic.git
-   cd psychology-clinic
+### Using **npm**:
+
+```bash
+npm install
